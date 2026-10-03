@@ -1,0 +1,13 @@
+{
+  "api_versions": {
+    "v1": {
+      "url": "_v1/asset-index.json",
+      "hash": "SHA256:b85c2875818c25e538ec01203b02e7c90826a34ae56be1a004c5577f59373cf5"
+    }
+  },
+  "name": "J3DAssets",
+  "contact": {
+    "name": "SaulOscuro",
+    "url": "https://github.com/SaulOscuro/J3DAssets-Library"
+  }
+}

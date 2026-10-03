@@ -1,0 +1,5 @@
+library/** -text
+*.blend binary
+*.webp binary
+README.md text eol=lf
+release-manifest.json text eol=lf

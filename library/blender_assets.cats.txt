@@ -1,0 +1,11 @@
+VERSION 1
+
+af2f6cd2-ed0e-5ece-8e6a-62cbb052900d:BathRoom:BathRoom
+e581ed8c-ebed-52ff-94c0-0093bde58810:CeilingStuff:CeilingStuff
+511451cd-e731-55b1-aff6-97c34a7c5bdd:Closets:Closets
+871fbfba-6f94-5944-a575-1000c1cdd52b:Doors:Doors
+002b9049-bf8b-5601-99ff-146192f16a9e:Kitchen:Kitchen
+0b8683c9-da0e-52c7-b0eb-d3af4af32853:Mirrors:Mirrors
+23d0ae65-653c-5cdb-95b4-792cbd259171:Vents:Vents
+880adc3d-b898-56c9-bcaa-a5f8bdf8791a:WallStuff:WallStuff
+31662773-75b3-593d-adbe-ca3b45dad0c5:Windows:Windows

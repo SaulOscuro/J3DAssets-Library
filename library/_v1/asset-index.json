@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 38801572,
+  "asset_count": 246,
+  "file_count": 246,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:26f6fe0cbda36a4ce576fad0366f11020959827bbafdc9e7697d9c15d4f00344"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "BathRoom",
+      "uuids": [
+        "af2f6cd2-ed0e-5ece-8e6a-62cbb052900d"
+      ],
+      "simple_name": "BathRoom"
+    },
+    {
+      "path": "CeilingStuff",
+      "uuids": [
+        "e581ed8c-ebed-52ff-94c0-0093bde58810"
+      ],
+      "simple_name": "CeilingStuff"
+    },
+    {
+      "path": "Closets",
+      "uuids": [
+        "511451cd-e731-55b1-aff6-97c34a7c5bdd"
+      ],
+      "simple_name": "Closets"
+    },
+    {
+      "path": "Doors",
+      "uuids": [
+        "871fbfba-6f94-5944-a575-1000c1cdd52b"
+      ],
+      "simple_name": "Doors"
+    },
+    {
+      "path": "Kitchen",
+      "uuids": [
+        "002b9049-bf8b-5601-99ff-146192f16a9e"
+      ],
+      "simple_name": "Kitchen"
+    },
+    {
+      "path": "Mirrors",
+      "uuids": [
+        "0b8683c9-da0e-52c7-b0eb-d3af4af32853"
+      ],
+      "simple_name": "Mirrors"
+    },
+    {
+      "path": "Vents",
+      "uuids": [
+        "23d0ae65-653c-5cdb-95b4-792cbd259171"
+      ],
+      "simple_name": "Vents"
+    },
+    {
+      "path": "WallStuff",
+      "uuids": [
+        "880adc3d-b898-56c9-bcaa-a5f8bdf8791a"
+      ],
+      "simple_name": "WallStuff"
+    },
+    {
+      "path": "Windows",
+      "uuids": [
+        "31662773-75b3-593d-adbe-ca3b45dad0c5"
+      ],
+      "simple_name": "Windows"
+    }
+  ]
+}
