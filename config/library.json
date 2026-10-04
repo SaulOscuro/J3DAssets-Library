@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "name": "J3DAssets",
+  "folder_prefix": "J3DAssets",
+  "profile": "ao-bake-no-textures-v1",
+  "blender_series": "5.2",
+  "material": "AO-bake",
+  "material_template": "BathRoom/BathRoom_Seats/BathRoom_Seats_seat0/BathRoom_Seats_seat0.blend",
+  "catalog_namespace": "j3d-assets/catalog/",
+  "catalogs": [
+    "BathRoom",
+    "CeilingStuff",
+    "Closets",
+    "Doors",
+    "Kitchen",
+    "Mirrors",
+    "Vents",
+    "WallStuff",
+    "Windows"
+  ],
+  "contact": {
+    "name": "SaulOscuro",
+    "url": "https://github.com/SaulOscuro/J3DAssets-Library"
+  }
+}

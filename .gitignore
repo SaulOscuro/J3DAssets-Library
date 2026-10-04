@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+.work/
+config/paths.local.json
+*.blend1
+*.blend2

@@ -3,3 +3,8 @@ library/** -text
 *.webp binary
 README.md text eol=lf
 release-manifest.json text eol=lf
+config/*.json text eol=lf
+tools/*.py text eol=lf
+tests/*.py text eol=lf
+docs/*.md text eol=lf
+AGENTS.md text eol=lf
